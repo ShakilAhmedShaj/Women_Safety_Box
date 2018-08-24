@@ -5,3 +5,8 @@ This is an Android App for Women or any Female, which Will Call to an Emergency 
 
 ![1 reg](https://user-images.githubusercontent.com/15268903/44601093-3d313680-a7fd-11e8-9e94-ba3b77d0dfc3.gif)
 
+2. Background Voice recognation service and Help mode execution - 
+
+![2 help](https://user-images.githubusercontent.com/15268903/44601241-ab75f900-a7fd-11e8-92a9-28bbce9630ca.gif)
+
+
