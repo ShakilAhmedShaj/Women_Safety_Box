@@ -3,5 +3,5 @@ This is an Android App for Women or any Female, which Will Call to an Emergency 
 
 1. Welcome Splash - 
 
-![Safety](https://s1.gifyu.com/images/FSB.gif)
+Details - https://s1.gifyu.com/images/FSB.gif
 
