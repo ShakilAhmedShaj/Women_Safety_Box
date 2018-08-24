@@ -14,7 +14,7 @@ This is an Android App for Women or any Female, which Will Call to an Emergency 
 
 ![3 nearbynew](https://user-images.githubusercontent.com/15268903/44601629-e9bfe800-a7fe-11e8-80f5-bbe24faf4e4f.gif)
 
-4. Inforamtion Module containing Fast Aid and Self Defence Info - 
+4. Information Module containing Fast Aid and Self Defence Info - 
 
 ![4 safetytips](https://user-images.githubusercontent.com/15268903/44601775-65219980-a7ff-11e8-93c2-547ecff322ee.gif)
 
