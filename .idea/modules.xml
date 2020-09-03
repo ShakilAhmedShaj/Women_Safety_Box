@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidStudioProjects-Women_Safety_Box.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidStudioProjects-Women_Safety_Box.iml" group="Women_Safety_Box" />
       <module fileurl="file://$PROJECT_DIR$/Women_Safety_Box.iml" filepath="$PROJECT_DIR$/Women_Safety_Box.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Women_Safety_Box-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Women_Safety_Box-app.iml" group="Women_Safety_Box/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/speech/Women_Safety_Box-speech.iml" filepath="$PROJECT_DIR$/.idea/modules/speech/Women_Safety_Box-speech.iml" group="Women_Safety_Box/speech" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/speech/speech.iml" filepath="$PROJECT_DIR$/speech/speech.iml" />
     </modules>
