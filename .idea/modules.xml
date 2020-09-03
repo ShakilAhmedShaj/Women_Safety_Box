@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidStudioProjects-Women_Safety_Box.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidStudioProjects-Women_Safety_Box.iml" group="Women_Safety_Box" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Women_Safety.iml" filepath="$PROJECT_DIR$/.idea/modules/Women_Safety.iml" group="Women_Safety" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Women_Safety-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Women_Safety-app.iml" group="Women_Safety/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/speech/Women_Safety-speech.iml" filepath="$PROJECT_DIR$/.idea/modules/speech/Women_Safety-speech.iml" group="Women_Safety/speech" />
       <module fileurl="file://$PROJECT_DIR$/Women_Safety_Box.iml" filepath="$PROJECT_DIR$/Women_Safety_Box.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Women_Safety_Box-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Women_Safety_Box-app.iml" group="Women_Safety_Box/app" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/speech/Women_Safety_Box-speech.iml" filepath="$PROJECT_DIR$/.idea/modules/speech/Women_Safety_Box-speech.iml" group="Women_Safety_Box/speech" />

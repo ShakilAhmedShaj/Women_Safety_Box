@@ -417,6 +417,10 @@ public class Speech {
                     "Unhandled exception in delegate onSpeechResult", exc);
         }
 
+//        if (mProgressView != null)
+//            mProgressView.onResultOrOnError();
+
+        // recreate the speech recognizer
         initSpeechRecognizer(mContext);
     }
 

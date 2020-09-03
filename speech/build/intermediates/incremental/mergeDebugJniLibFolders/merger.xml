@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\Android_Projects\Women_Safety_Box\speech\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\Android_Projects\Women_Safety_Box\speech\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\SHAZ\AndroidStudioProjects\Women_Safety\speech\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\SHAZ\AndroidStudioProjects\Women_Safety\speech\src\debug\jniLibs"/></dataSet></merger>
