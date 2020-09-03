@@ -16,8 +16,6 @@ import android.telephony.SmsManager;
 import android.util.Log;
 import android.widget.Toast;
 
-
-
 public class BackgrndServices extends Service implements AccelerometerListener {
     String str_address;
 
